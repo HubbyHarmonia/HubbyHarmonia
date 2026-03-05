@@ -1,4 +1,4 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hi6qnian1ynyibfvlpis1dwwv&cover_image=true&theme=default&show_offline=false&background_color=02093b&interchange=false&profanity=false&bar_color=828ec3)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hi6qnian1ynyibfvlpis1dwwv&cover_image=true&theme=novatorem&show_offline=false&background_color=02093b&interchange=false&profanity=false&bar_color=010c3c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 **HubbyHarmonia/HubbyHarmonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
